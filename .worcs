@@ -1,3 +1,10 @@
 worcs_version: 0.1.5
 creator: naoyukisunami
 entry_point: manuscript/manuscript.Rmd
+checksums:
+  penguins.csv: 4f6c214e2f0c99f35b42f320cc30fe61
+  synthetic_penguins.csv: 9eeac97d55ad9a217f738039f3238644
+data:
+  penguins.csv:
+    synthetic: synthetic_penguins.csv
+    codebook: codebook_penguins.Rmd

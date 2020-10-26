@@ -4,3 +4,5 @@
 # to store the data.
 
 library(worcs)
+penguins <- palmerpenguins::penguins
+closed_data(penguins)

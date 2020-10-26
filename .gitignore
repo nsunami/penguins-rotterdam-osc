@@ -10,3 +10,6 @@
 *.log
 *.tex
 .Rproj.user
+penguins.csv
+!synthetic_penguins.csv
+!codebook_penguins.csv
