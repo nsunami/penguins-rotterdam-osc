@@ -1,5 +1,5 @@
 ---
-title           : "My preregistration for the COS Preregistration Challenge"
+title           : "My test project about penguins"
 shorttitle      : "My preregistration"
 date            : "`r Sys.setlocale('LC_TIME', 'C'); format(Sys.time(), '%d\\\\. %B %Y')`"
 
@@ -21,6 +21,7 @@ output: prereg::cos_prereg
 # Study Information
 
 ## Title
+
 <!-- Provide the working title of your study. It may be the same title that you submit for publication of your final manuscript, but it is not a requirement. The title should be a specific and informative description of a project. Vague titles such as 'Fruit fly preregistration plan' are not appropriate.
 
 Example: Effect of sugar on brownie tastiness. -->

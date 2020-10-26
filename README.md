@@ -2,9 +2,9 @@
 
 <!-- Please add a brief introduction to explain what the project is about    -->
 
-## Where do I start?
+## About this project
+I created this project as part of the WORCS workshop.
 
-You can load this project in RStudio by opening the file called 'penguins-rotterdam-osc.Rproj'.
 
 ## Project structure
 
